@@ -6,3 +6,4 @@ Use github actions to automatically knit an Rmarkdown document after each commit
 
 
 https://speakerdeck.com/jimhester/github-actions-for-r?slide=53
+https://fromthebottomoftheheap.net/2020/04/30/rendering-your-readme-with-github-actions/
